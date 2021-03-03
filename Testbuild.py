@@ -1,5 +1,4 @@
-x = 10
-y = 20
-money = x+y
-print ("Hello User")
-print ("You Have" , money , "THB")
+age = 17
+print ("Hello there, are you older than 18 yo.?")
+print (age > 18)
+print ("How Old are you?")
