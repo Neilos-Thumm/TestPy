@@ -1,6 +1,5 @@
-age = 17
-print ("Hello there, are you older than 18 yo.?")
-print (age > 18)
-print ("How Old are you?")
-print ("Why is your PP so smol?")
-print ("YEES")
+a = 10
+b = 5
+c = a + b
+b = 10
+print (b)
